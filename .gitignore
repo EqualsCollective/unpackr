@@ -1,5 +1,5 @@
 *.env
 *.log
 .DS_Store
-.sass-cache
 node_modules
+package-lock.json

@@ -2,7 +2,7 @@
   "name": "unpackr",
   "description": "A solution for statically unpacking repository code into a project",
   "author": "Dan Carter <dan@equalscollective.com>",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "preferGlobal": true,
   "bin": {
